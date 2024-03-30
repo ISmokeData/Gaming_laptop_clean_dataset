@@ -29,5 +29,8 @@ The cleaned dataset `laptop_cleaned_v2.csv` contains the refined data with infor
 - For any questions or issues, feel free to contact the repository owner.
 
 By utilizing this repository, you gain access to a cleaned and processed dataset of gaming laptops, facilitating analysis and insights generation.
+<br>
+### You can also access cleaned Dataset
+Kaggle : https://www.kaggle.com/datasets/dhanrajcodes/gaming-laptop-specs-and-price-dataset
 
 **Thank you for using this repository!**
